@@ -1,0 +1,58 @@
+{
+  "backgroundType": "gradient",
+  "plainBackgroundMode": "daylight",
+  "gradientColors": "#EE7752, #E73C7E, #23A6D5, #23D5AB",
+  "FirstName": "Ajay",
+  "MiddleName": "",
+  "LastName": "K",
+  "devDesc": "| Engineer | Programmer | Web Developer | Android Application Developer | Flutter Developer  ",
+  "icons": [
+    {
+      "id": 0,
+      "image": "fa-github",
+      "url": "https://github.com/ajailee",
+      "style": "socialicons"
+    },
+    
+    {
+      "id": 1,
+      "image": "fa-instagram",
+      "url": "https://www.instagram.com/ajai__lee/",
+      "style": "socialicons"
+    },
+    {
+      "id": 2,
+      "image": "fa-linkedin",
+      "url": "https://www.linkedin.com/in/ajay-k-38391015b",
+      "style": "socialicons"
+    },
+    {
+      "id": 3,
+      "image": "fa-twitter",
+      "url": "https://twitter.com/Ajaidonglee/",
+      "style": "socialicons"
+    }
+  ],
+  "Projects": [
+    {
+      "projectHeading":"kk",
+      "gitHubLink":"kk",
+      "gitHubUsername":"kk",
+      "gitHubQuerry":"kk",
+      "projectsLength":"kk"
+    }
+  ],
+  "aboutHeading": "About Me",
+  "showInstaProfilePic": true,
+  "instaLink": "https://www.instagram.com/ajai__lee",
+  "instaUsername": "aiaj__lee",
+  "instaQuerry": "/?__a=1",
+  "aboutDescription": "I'm  B.Tech Information Technology Student from Panimalar Institute of Technology, Intrested in Mobile Application and Web Development",
+  "projectHeading": "Recent Projects",
+  "gitHubLink": "https://api.github.com/users/",
+  "gitHubUsername": "ajailee",
+  "gitHubQuerry": "/repos?sort=updated&direction=desc",
+  "projectsLength": 6,
+  "showNavigationbar": true,
+  "showBlog": false
+}
