@@ -5,7 +5,7 @@
   "FirstName": "Ajay",
   "MiddleName": "",
   "LastName": "K",
-  "devDesc": "| Engineer | Programmer | Web Developer | Android Application Developer | Flutter Developer  ",
+  "devDesc": "| Engineer | Programmer | Web Developer  | Flutter Developer  ",
   "icons": [
     {
       "id": 0,
@@ -32,6 +32,12 @@
       "url": "https://twitter.com/Ajaidonglee/",
       "style": "socialicons"
     }
+    {
+    "id":4,
+    "image":"fa-gmail",
+    "url":"ajaidonglee@gmail.com",
+    "style":"socialicons"
+    }
   ],
   "Projects": [
     {
@@ -47,7 +53,7 @@
   "instaLink": "https://www.instagram.com/ajai__lee",
   "instaUsername": "aiaj__lee",
   "instaQuerry": "/?__a=1",
-  "aboutDescription": "I'm  B.Tech Information Technology Student from Panimalar Institute of Technology, Intrested in Mobile Application and Web Development",
+  "aboutDescription": "I'm  B.Tech Information Technology Student from Panimalar Institute of Technology, Intrested in Mobile Application and Web Development using cross-platform framework flutter and dart ",
   "projectHeading": "Recent Projects",
   "gitHubLink": "https://api.github.com/users/",
   "gitHubUsername": "ajailee",
