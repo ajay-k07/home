@@ -58,7 +58,7 @@
   "gitHubLink": "https://api.github.com/users/",
   "gitHubUsername": "ajailee",
   "gitHubQuerry": "/repos?sort=updated&direction=desc",
-  "projectsLength": 6,
+  "projectsLength": 7,
   "showNavigationbar": true,
   "showBlog": false
 }
