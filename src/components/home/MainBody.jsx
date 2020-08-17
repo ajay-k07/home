@@ -38,7 +38,7 @@ const MainBody = () => {
             {FirstName + " " + MiddleName + " " + LastName}
           </h1>
           <Typist className="lead"> {devDesc}</Typist>
-          <div className="p-5">
+          <div className="p-6">
             {icons.map((icon) => (
               <a
                 key={icon.id}

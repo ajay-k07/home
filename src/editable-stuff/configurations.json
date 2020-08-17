@@ -5,7 +5,7 @@
   "FirstName": "Ajay",
   "MiddleName": "",
   "LastName": "K",
-  "devDesc": "| Engineer | Programmer | Web Developer  | Flutter Developer  ",
+  "devDesc": "| Engineer | Programmer | Web Developer  | Flutter Developer | cross-platform " ,
   "icons": [
     {
       "id": 0,
@@ -31,7 +31,7 @@
       "image": "fa-twitter",
       "url": "https://twitter.com/Ajaidonglee/",
       "style": "socialicons"
-    }
+    },
     {
     "id":4,
     "image":"fa-gmail",
@@ -41,24 +41,24 @@
   ],
   "Projects": [
     {
-      "projectHeading":"kk",
-      "gitHubLink":"kk",
-      "gitHubUsername":"kk",
-      "gitHubQuerry":"kk",
-      "projectsLength":"kk"
+      "projectHeading":"",
+      "gitHubLink":"",
+      "gitHubUsername":"",
+      "gitHubQuerry":"",
+      "projectsLength":""
     }
   ],
   "aboutHeading": "About Me",
   "showInstaProfilePic": true,
-  "instaLink": "https://www.instagram.com/ajai__lee",
+  "instaLink": "https://www.instagram.com/ajai__lee/",
   "instaUsername": "aiaj__lee",
   "instaQuerry": "/?__a=1",
-  "aboutDescription": "I'm  B.Tech Information Technology Student from Panimalar Institute of Technology, Intrested in Mobile Application and Web Development using cross-platform framework flutter and dart ",
+  "aboutDescription": "I'm  B.Tech Information Technology Student from Panimalar Institute of Technology, Intrested in Mobile Application using cross-platform framework flutter and dart and web application using react js and node js. belive in team work ready to work anywhere in the universe and at any time 😜️ '",
   "projectHeading": "Recent Projects",
   "gitHubLink": "https://api.github.com/users/",
   "gitHubUsername": "ajailee",
   "gitHubQuerry": "/repos?sort=updated&direction=desc",
-  "projectsLength": 7,
+  "projectsLength": 6,
   "showNavigationbar": true,
   "showBlog": false
 }
